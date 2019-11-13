@@ -14,6 +14,7 @@ import java.awt.Dimension;
 public class FormUtama extends javax.swing.JFrame {
 
     DataSiswa dataSiswa;
+    ScrollBar scrollBar;
     /**
      * Creates new form FormUtama
      */
@@ -122,14 +123,14 @@ public class FormUtama extends javax.swing.JFrame {
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         // TODO add your handling code here:
         try {
-            if (!(dataSiswa instanceof Object)) {
-                dataSiswa = new DataSiswa();
-                jDesktopPane1.add(dataSiswa);
+            if (!(scrollBar instanceof Object)) {
+                scrollBar = new ScrollBar();
+                jDesktopPane1.add(scrollBar);
             }
             
-            dataSiswa.setVisible(true);
+            scrollBar.setVisible(true);
             Dimension d = jDesktopPane1.getSize();
-            dataSiswa.setSize(d);
+            scrollBar.setSize(d);
         } catch (Exception e) {
             System.err.println("gagal memuat data siswa || "+e);
         }

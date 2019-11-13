@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
-    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/sekolah/DataSiswa.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>171</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/F:/TU%20SMK%20TI/2019-2020/Adm.%20Kurikulum/2%20Pembelajaran%20Guru/Netbeans/Sekolah/src/sekolah/ScrollBar.java</file>
+            <file>file:/F:/TU%20SMK%20TI/2019-2020/Adm.%20Kurikulum/2%20Pembelajaran%20Guru/Netbeans/Sekolah/src/sekolah/DataSiswa.java</file>
+            <file>file:/F:/TU%20SMK%20TI/2019-2020/Adm.%20Kurikulum/2%20Pembelajaran%20Guru/Netbeans/Sekolah/src/sekolah/FormUtama.java</file>
+        </group>
     </open-files>
 </project-private>
